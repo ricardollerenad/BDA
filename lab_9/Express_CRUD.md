@@ -27,10 +27,10 @@ api-express/
 
 # 📦 Instalación
 
-mkdir backend
-cd backend
-npm init -y
-npm install express mongoose cors dotenv
+* mkdir backend
+* cd backend
+* npm init -y
+* npm install express mongoose cors dotenv
 
 # ⚙️ .env
 
