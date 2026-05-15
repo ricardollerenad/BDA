@@ -34,7 +34,7 @@ api-express/
 
 # ⚙️ .env
 
-PORT=3003
+PORT=3003  
 MONGO_URI=mongodb://rllerena:Tecsup123@localhost:27017/mi_api?authSource=admin
 
 # 🚀 index.js
